@@ -15,6 +15,9 @@ const Lorena = {
   softSkills: [Empathy, Versatility, Communication, Teamwork, Organizational]
 }
 ```
-   
+###  Contáctame en:  
+
+- **Linkedin:** http://www.linkedin.com/in/lorenamateogarcia
+- **Email:** lorena.mateo.garcia@gmail.com
 
 ![Imagen1](https://i.pinimg.com/originals/ab/df/49/abdf49ed72d855680eb7af44f08b97ab.gif)
