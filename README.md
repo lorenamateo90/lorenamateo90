@@ -6,7 +6,7 @@ Politóloga de formación y desarrolladora por convicción. Llegué al sector te
 
 
 ```javascript
-const lorena = {
+const Lorena = {
   surname: "Mateo",
   code: [HTML, CSS, SASS, Javascript, React, NodeJS],
   tools: [Visual, Git, GitHub, Gulp, npm],
