@@ -8,11 +8,11 @@ Politóloga de formación y desarrolladora por convicción. Llegué al sector te
 ```javascript
 const Lorena = {
   surname: "Mateo",
-  code: [HTML, CSS, SASS, Javascript, React, NodeJS],
-  tools: [Visual, Git, GitHub, Gulp, npm],
-  communicationTools: [Trello, Slack, Zoom, GitHub Projects],
+  code: ["HTML", "CSS", "SASS", "Javascript", "React", "NodeJS"],
+  tools: ["Visual", "Git", "GitHub", "Gulp", "npm"],
+  communicationTools: ["Trello", "Slack", "Zoom", "GitHub"],
   workMethodology: "Agile",
-  softSkills: [Empathy, Versatility, Communication, Teamwork, Organizational]
+  softSkills: ["Empathy", "Versatility", "Communication", "Teamwork", "Organizational"]
 }
 ```
 ###  Puedes encontrarme en:  
